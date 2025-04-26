@@ -1,3 +1,1 @@
 # NexGen Inc.
-
-Welcome!
